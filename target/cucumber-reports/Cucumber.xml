@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="18.989" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Search for a store" name="Search for a store" time="18.743">
+<system-out><![CDATA[
+Given I am on the Asian Paints website......................................passed
+When I navigate to the "Stores" page........................................passed
+And I enter the pincode in the search box And I click on the "Search" button And I click on the "Directions" button.passed
+Then I should see the details of the store..................................passed
+]]></system-out>
+</testcase>
+</testsuite>
